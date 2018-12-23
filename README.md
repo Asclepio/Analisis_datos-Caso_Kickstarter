@@ -1,4 +1,4 @@
-# FIRST_STEPS_1_KickstarterAnalysis
+# Case_1_KickstarterAnalysis
 
 # DATASET: 
 Para comenzar a trabajar en la distintas operaciones que podemos realizar con un data frame vamos a trabajar con el siguiente set de datos:
